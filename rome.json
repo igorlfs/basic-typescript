@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rome/tools/main/editors/vscode/configuration_schema.json",
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentSize": 4,
+    "lineWidth": 100
+  },
+  "javascript": {
+    "formatter": {
+      "trailingComma": "none",
+      "quoteStyle": "double"
+    }
+  }
+}
